@@ -1,5 +1,8 @@
 # UDP_JAVA
-I have done coding in Java
+
+Developed an overlay based solution that allows nodes to search for contents among each other through UDP.
+Implementation was done in Java and was tested in PlanetLab overlay network.
+
 
 *In UDP_JAVA
 there are UDP file Rcmd(client) and Rcmdd(server)
