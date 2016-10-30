@@ -1,10 +1,7 @@
 # UDP_JAVA
 I have done coding in Java
 
-*In final_tcp
-there are TCP file Rcmd(client) and Rcmdd(server)
-
-*In final_udp
+*In UDP_JAVA
 there are UDP file Rcmd(client) and Rcmdd(server)
 
 
