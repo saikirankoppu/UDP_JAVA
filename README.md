@@ -13,13 +13,12 @@ filename is Rcmd or Rcmdd
 *For Running
 
 ->Running a Server(Rcmdd)
-after entering this line "java Rcmdd portnumber" press enter.
-and run the clients
+After entering this line "java Rcmdd portnumber" press enter and run the clients.
 Note:Dont forget to give the portnumber.
 
 
 ->Running a client (Rcmd)
-after entering this "java Rcmd hostname portnumber exec_count delay command" press enter.
-  put command in "" example:  java Rcmd localhost 5000 4 2000 "ls"
+After entering this "java Rcmd hostname portnumber exec_count delay command" press enter
+and put command in "" example:  java Rcmd localhost 5000 4 2000 "ls"
 
 
